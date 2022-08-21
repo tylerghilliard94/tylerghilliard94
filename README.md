@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Django channels and react DnD**
 
-- 💬 Ask me about **React, Django, Python,.NET etc!**
+- 💬 Ask me about **React, Django, Python, .NET etc!**
 
 - 📫 How to reach me **tylerghilliard@gmail.com**
 
