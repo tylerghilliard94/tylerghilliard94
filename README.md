@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **tylerghilliard@gmail.com**
 
-- 📄 Know about my experiences [updated shortly](updated shortly)
-
 - ⚡ Fun fact **Avid gamer both video and tabletop. Working on writing more in my spare time.**
 
 <h3 align="left">Connect with me:</h3>
